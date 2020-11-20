@@ -1,0 +1,13 @@
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.exe
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.deps.json
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.runtimeconfig.json
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.runtimeconfig.dev.json
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.dll
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\bin\Debug\netcoreapp3.1\condicionalSwitch.pdb
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.csprojAssemblyReference.cache
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.AssemblyInfo.cs
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.dll
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.pdb
+C:\Users\giova\source\repos\condicionalSwitch\condicionalSwitch\obj\Debug\netcoreapp3.1\condicionalSwitch.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\giova\source\repos\fibonatti\fibonatti\bin\Debug\netcoreapp3.1\fibonatti.exe
+C:\Users\giova\source\repos\fibonatti\fibonatti\bin\Debug\netcoreapp3.1\fibonatti.deps.json
+C:\Users\giova\source\repos\fibonatti\fibonatti\bin\Debug\netcoreapp3.1\fibonatti.runtimeconfig.json
+C:\Users\giova\source\repos\fibonatti\fibonatti\bin\Debug\netcoreapp3.1\fibonatti.runtimeconfig.dev.json
+C:\Users\giova\source\repos\fibonatti\fibonatti\bin\Debug\netcoreapp3.1\fibonatti.dll
+C:\Users\giova\source\repos\fibonatti\fibonatti\bin\Debug\netcoreapp3.1\fibonatti.pdb
+C:\Users\giova\source\repos\fibonatti\fibonatti\obj\Debug\netcoreapp3.1\fibonatti.csprojAssemblyReference.cache
+C:\Users\giova\source\repos\fibonatti\fibonatti\obj\Debug\netcoreapp3.1\fibonatti.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\fibonatti\fibonatti\obj\Debug\netcoreapp3.1\fibonatti.AssemblyInfo.cs
+C:\Users\giova\source\repos\fibonatti\fibonatti\obj\Debug\netcoreapp3.1\fibonatti.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\fibonatti\fibonatti\obj\Debug\netcoreapp3.1\fibonatti.dll
+C:\Users\giova\source\repos\fibonatti\fibonatti\obj\Debug\netcoreapp3.1\fibonatti.pdb
+C:\Users\giova\source\repos\fibonatti\fibonatti\obj\Debug\netcoreapp3.1\fibonatti.genruntimeconfig.cache

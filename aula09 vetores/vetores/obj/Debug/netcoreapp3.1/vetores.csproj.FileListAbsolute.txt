@@ -1,0 +1,13 @@
+C:\Users\giova\source\repos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.exe
+C:\Users\giova\source\repos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.deps.json
+C:\Users\giova\source\repos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.runtimeconfig.json
+C:\Users\giova\source\repos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.runtimeconfig.dev.json
+C:\Users\giova\source\repos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.dll
+C:\Users\giova\source\repos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.pdb
+C:\Users\giova\source\repos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.csprojAssemblyReference.cache
+C:\Users\giova\source\repos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.AssemblyInfo.cs
+C:\Users\giova\source\repos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.dll
+C:\Users\giova\source\repos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.pdb
+C:\Users\giova\source\repos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.genruntimeconfig.cache
