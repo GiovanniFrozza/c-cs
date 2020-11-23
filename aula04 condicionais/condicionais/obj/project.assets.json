@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giova\\source\\repos\\condicionais\\condicionais\\condicionais.csproj",
+      "projectUniqueName": "C:\\Users\\giova\\source\\repos\\aula04 condicionais\\condicionais\\condicionais.csproj",
       "projectName": "condicionais",
-      "projectPath": "C:\\Users\\giova\\source\\repos\\condicionais\\condicionais\\condicionais.csproj",
+      "projectPath": "C:\\Users\\giova\\source\\repos\\aula04 condicionais\\condicionais\\condicionais.csproj",
       "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giova\\source\\repos\\condicionais\\condicionais\\obj\\",
+      "outputPath": "C:\\Users\\giova\\source\\repos\\aula04 condicionais\\condicionais\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config",

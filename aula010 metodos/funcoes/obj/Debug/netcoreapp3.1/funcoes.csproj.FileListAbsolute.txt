@@ -1,0 +1,12 @@
+C:\Users\giova\source\repos\aula010 metodos\funcoes\obj\Debug\netcoreapp3.1\funcoes.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\aula010 metodos\funcoes\obj\Debug\netcoreapp3.1\funcoes.AssemblyInfo.cs
+C:\Users\giova\source\repos\aula010 metodos\funcoes\obj\Debug\netcoreapp3.1\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\aula010 metodos\funcoes\bin\Debug\netcoreapp3.1\funcoes.exe
+C:\Users\giova\source\repos\aula010 metodos\funcoes\bin\Debug\netcoreapp3.1\funcoes.deps.json
+C:\Users\giova\source\repos\aula010 metodos\funcoes\bin\Debug\netcoreapp3.1\funcoes.runtimeconfig.json
+C:\Users\giova\source\repos\aula010 metodos\funcoes\bin\Debug\netcoreapp3.1\funcoes.runtimeconfig.dev.json
+C:\Users\giova\source\repos\aula010 metodos\funcoes\bin\Debug\netcoreapp3.1\funcoes.dll
+C:\Users\giova\source\repos\aula010 metodos\funcoes\bin\Debug\netcoreapp3.1\funcoes.pdb
+C:\Users\giova\source\repos\aula010 metodos\funcoes\obj\Debug\netcoreapp3.1\funcoes.dll
+C:\Users\giova\source\repos\aula010 metodos\funcoes\obj\Debug\netcoreapp3.1\funcoes.pdb
+C:\Users\giova\source\repos\aula010 metodos\funcoes\obj\Debug\netcoreapp3.1\funcoes.genruntimeconfig.cache

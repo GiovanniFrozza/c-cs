@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giova\\source\\repos\\condicionalSwitch\\condicionalSwitch\\condicionalSwitch.csproj",
+      "projectUniqueName": "C:\\Users\\giova\\source\\repos\\aula05 condicionalSwitch\\condicionalSwitch\\condicionalSwitch.csproj",
       "projectName": "condicionalSwitch",
-      "projectPath": "C:\\Users\\giova\\source\\repos\\condicionalSwitch\\condicionalSwitch\\condicionalSwitch.csproj",
+      "projectPath": "C:\\Users\\giova\\source\\repos\\aula05 condicionalSwitch\\condicionalSwitch\\condicionalSwitch.csproj",
       "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giova\\source\\repos\\condicionalSwitch\\condicionalSwitch\\obj\\",
+      "outputPath": "C:\\Users\\giova\\source\\repos\\aula05 condicionalSwitch\\condicionalSwitch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config",
